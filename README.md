@@ -1,1 +1,1 @@
-# hait-task1{
+# hait-task1
